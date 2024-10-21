@@ -1,0 +1,20 @@
+dbscan_spatial
+
+[INFO] [1729522533.631215639] [marker_array_subscriber]: Átlagos párosítási hiba: 22.471041173977362
+[INFO] [1729522533.631821139] [marker_array_subscriber]: Pontos egyezés találati arány: 28.57142857142857%
+[INFO] [1729522533.632640839] [marker_array_subscriber]: Pontos egyezések száma: 4
+
+euclidean_spatial
+
+[INFO] [1729522660.766997825] [marker_array_subscriber]: Átlagos párosítási hiba: 22.34438298607683
+[INFO] [1729522660.767596225] [marker_array_subscriber]: Pontos egyezés találati arány: 35.714285714285715%
+[INFO] [1729522660.768352825] [marker_array_subscriber]: Pontos egyezések száma: 10
+
+euclidean_grid
+
+[INFO] [1729522736.590692195] [marker_array_subscriber]: Átlagos párosítási hiba: 22.48498608745423
+[INFO] [1729522736.591178995] [marker_array_subscriber]: Pontos egyezés találati arány: 38.46153846153847%
+[INFO] [1729522736.591621195] [marker_array_subscriber]: Pontos egyezések száma: 5
+
+
+distance_threshold = 0.5  # nearest_neighbor_matching
